@@ -1,2 +1,2 @@
 # Algorithms
-Basic algorithms implementations
+Basic algorithms implementation
